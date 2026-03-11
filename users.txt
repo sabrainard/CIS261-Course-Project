@@ -1,0 +1,2 @@
+admin|$2b$12$J445mm5VbCnigGLeKsE/FO3.1fdnbjRlvXbl6NNnvLG6oF0UkJroG|Admin
+user|$2b$12$yS8HROBICMvMayLWyZnBCOCptdECScrokJ0bpnpXMZMAe2Vhgc0lu|User
