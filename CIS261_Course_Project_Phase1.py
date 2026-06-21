@@ -1,9 +1,3 @@
-#Stephanie Brainard
-#CIS261 Course Project
-#Phase 1
-#Week 3 
-
-
 #Getting employee information
 def employeeInput (min_val=0, max_val=float('inf')): 
     while True:
