@@ -1,8 +1,3 @@
-#Stephanie Brainard
-#CIS261 Course Project
-#Phase 4
-#Week 9
-
 # -------------------------------
 # IMPORTS
 # -------------------------------
