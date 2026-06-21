@@ -1,9 +1,3 @@
-#Stephanie Brainard
-#CIS261 Course Project
-#Phase 2
-#Week 5
-
-
 from datetime import datetime, timedelta
 
 
